@@ -1,6 +1,4 @@
-
 import secrets
-
 
 def get_password_length():
     while True:
